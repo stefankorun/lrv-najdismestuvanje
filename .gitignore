@@ -1,0 +1,14 @@
+# intellij
+.idea
+
+# laravel
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+
+# package managers
+/vendor
+/node_modules
+/bower_components
+/public/bower_components
