@@ -8,6 +8,7 @@ Homestead.json
 .env
 
 # package managers
+composer.phar
 /vendor
 /node_modules
 /bower_components
